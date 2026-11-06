@@ -1,0 +1,10 @@
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Arquivos de teste e temporários
+test_*.html
+*.log
+*.tmp
